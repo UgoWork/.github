@@ -1,0 +1,2 @@
+# .github
+Centralized template repository
