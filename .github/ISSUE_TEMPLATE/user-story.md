@@ -19,16 +19,10 @@ assignees: ''
 - [ ] Criteria 2
 - [ ] Criteria 3
 
-### Definition of Done
-<!-- Outline the requirements that indicate the user story is complete. -->
-- [ ] Code is written and committed
-- [ ] Code is reviewed
-- [ ] Unit tests are written and passing
-- [ ] Documentation is updated (if needed)
+### Sub-tasks
+<!-- List the subtasks to satisfy this user story. -->
+- [ ] Task / Issue #1
+- [ ] Task / Issue #2
 
 ### Additional Information
 <!-- Include any additional context, links, or notes relevant to the user story. -->
-
-### Related Issues or Dependencies
-<!-- Link any related issues, pull requests, or dependencies here. -->
-- Issue #xxx
