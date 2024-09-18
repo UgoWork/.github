@@ -1,33 +1,30 @@
 ---
-name: Simple Task
-about: Create a simple task
-title: ''
-labels: ''
+name: Tâche simple  
+about: Créer une tâche simple  
+title: ''  
+labels: ''  
 assignees: ''
 
 ---
 
-### Task Summary
-<!-- Briefly describe the task or feature in one or two sentences. -->
+### Résumé de la tâche
+<!-- Décrivez brièvement la tâche ou la fonctionnalité en une ou deux phrases. -->
 
-### Checklist
-<!-- Checklist to review upon completion -->
-- [ ] Check 1
-- [ ] Check 2
+### Liste de vérification
+<!-- Liste de vérification à examiner lors de la finalisation -->
+- [ ] Vérification 1  
+- [ ] Vérification 2  
 - [ ] ...
 
-### Definition of Done
-<!-- Outline the conditions that indicate the task is complete. -->
-- [ ] Unit tests are written and passing
-- [ ] Code is reviewed through PR
+### Définition de terminé
+<!-- Décrivez et/ou ajoutez les conditions qui indiquent que la tâche est terminée. -->
+- [ ] Les tests unitaires sont écrits et réussissent  
+- [ ] Le code est revu via une PR
 
-### Implementation Details
-<!-- Provide any additional context or technical details for implementation. -->
-
-### Related Issues or Dependencies
-<!-- Link any related issues, pull requests, or dependencies here. -->
-- Issue #xxx
+### Problèmes ou dépendances connexes
+<!-- Liez ici les issues, pull requests ou dépendances connexes. -->
+- Issues #xxx  
 - PR #xxx
 
-### Additional Information
-<!-- Include any other relevant details or context. Screenshots, mockups, or references can be added here. -->
+### Informations supplémentaires
+<!-- Incluez tout autre détail ou contexte pertinent. Des captures d'écran, maquettes ou références peuvent être ajoutées ici. -->
