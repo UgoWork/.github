@@ -1,45 +1,45 @@
 ---
-name: Feature Request
-about: Suggest an enhancement
-title: "[REQUEST] - "
-labels: enhancement
+name: Demande d'amélioration  
+about: Suggérer une amélioration  
+title: "[REQUEST] - "  
+labels: enhancement  
 assignees: ''
 
 ---
 
-### Affected Software
-<!--- Provide in which software the bug is reported -->
-- Name:
-- Version: 
+### Logiciel/application concerné
+<!--- Indiquez dans quel logiciel/application l'amélioration est demandée -->
+- Nom :  
+- Version :
 
-### Feature Enhancement Summary
-<!-- Provide a brief summary of the enhancement request in one or two sentences. -->
+### Résumé de l'amélioration demandée
+<!-- Fournissez un bref résumé de la demande d'amélioration en une ou deux phrases. -->
 
-### Problem Statement
-<!-- Describe the current problem or limitation that the feature enhancement will address. -->
+### Énoncé du problème
+<!-- Décrivez le problème ou la limitation actuelle que l'amélioration va résoudre. -->
 
-### Proposed Solution
-<!-- Describe your proposed solution and how it will address the problem. -->
+### Solution proposée
+<!-- Décrivez la solution proposée et comment elle résoudra le problème. -->
 
-### Acceptance Criteria
-<!-- List specific criteria that need to be met for this enhancement to be considered complete. -->
-- [ ] Criteria 1
-- [ ] Criteria 2
-- [ ] Criteria 3
+### Critères d'acceptation
+<!-- Listez les critères spécifiques à remplir pour que cette amélioration soit considérée comme terminée. -->
+- [ ] Critère 1  
+- [ ] Critère 2  
+- [ ] Critère 3
 
-### Expected Benefits
-<!-- Explain the expected benefits or improvements from implementing this feature. -->
+### Bénéfices attendus
+<!-- Expliquez les bénéfices ou améliorations attendus suite à la mise en œuvre de cette fonctionnalité. -->
 
-### Potential Risks or Concerns
-<!-- List any potential risks, limitations, or concerns that may arise with this enhancement. -->
+### Risques ou préoccupations potentielles
+<!-- Listez les risques, limitations ou préoccupations qui pourraient surgir avec cette amélioration. -->
 
-### Implementation Plan
-<!-- Optional: Provide any high-level steps or tasks involved in implementing the enhancement. -->
+### Plan de mise en œuvre
+<!-- Optionnel : Fournissez les étapes ou tâches de haut niveau pour mettre en œuvre l'amélioration. -->
 
-### Related Issues or Dependencies
-<!-- Link any related issues, pull requests, or dependencies here. -->
-- Issue #xxx
+### Problèmes ou dépendances connexes
+<!-- Liez ici les problèmes, pull requests ou dépendances connexes. -->
+- Problème #xxx  
 - PR #xxx
 
-### Additional Information
-<!-- Include any other relevant details or context. Screenshots, design mockups, or references can be added here. -->
+### Informations supplémentaires
+<!-- Incluez tous les autres détails ou contextes pertinents. Des captures d'écran, maquettes de conception ou références peuvent être ajoutées ici. -->
