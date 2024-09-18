@@ -1,36 +1,36 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
-title: "[BUG] - "
-labels: bug
+name: Rapport de bug  
+about: Rapport de bug  
+title: "[BUG] - "  
+labels: bug  
 assignees: ''
 
 ---
 
-### Affected Software
-<!--- Provide in which software the bug is reported -->
-- Name:
-- Version: 
+### Logiciel/application concerné
+<!--- Indiquez dans quel logiciel/application le bug est signalé -->
+- Nom :  
+- Version :
 
-### Expected Behavior
-<!--- Tell us what should happen -->
+### Comportement attendu
+<!--- Dites-nous ce qui devrait se passer -->
 
-### Current Behavior
-<!--- Tell us what happens instead of the expected behavior -->
+### Comportement actuel
+<!--- Dites-nous ce qui se passe au lieu du comportement attendu -->
 
-### Steps to Reproduce
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
-1. 
-2. 
+### Étapes pour reproduire le bug
+<!--- Lister la série d'étapes pour reproduire ce bug. -->
+<!--- N'hésitez pas à fournir un vidéo, des photos ou du code pour reproduire, si pertinent. -->
+1.  
+2.  
 3.  
 
-### Context (Environment)
-<!--- Providing context helps to reproduce the issue -->
+### Contexte (Environnement)
+<!--- Fournir le contexte aide à reproduire le problème -->
 
-- Device: [ex. iPhone13, MacBook Pro]
-- OS: [ex. iOS 17.6.1]
-- Browser: [ex. Chrome 128.0.6613.120]
+- Appareil : [ex. iPhone13, MacBook Pro]  
+- OS : [ex. iOS 17.6.1]  
+- Navigateur : [ex. Chrome 128.0.6613.120]
 
-### Possible Solution
-<!--- Not obligatory, but suggest a fix/reason for the bug, -->
+### Solution possible
+<!--- Optionnel, vous pouvez suggérez une solution pour le bug. -->
