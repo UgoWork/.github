@@ -1,4 +1,4 @@
-## Veuillez fournir suffisamment d'informations pour que d'autres puissent examiner votre pull request :
+## Veuillez fournir suffisamment d'informations pour que d'autres puissent examiner votre pull request
 <!-- Vous pouvez ignorer ceci si vous corrigez une faute de frappe ou un détail insignifiant. -->
 
 ## Procédure de test (si pertinent)
