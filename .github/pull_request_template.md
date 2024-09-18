@@ -1,8 +1,8 @@
-## Please provide enough information so that others can review your pull request:
-<!-- You can skip this if you're fixing a typo or something meaningless. -->
+## Veuillez fournir suffisamment d'informations pour que d'autres puissent examiner votre pull request
+<!-- Vous pouvez ignorer ceci si vous corrigez une faute de frappe ou un détail insignifiant. -->
 
-## Test procedure (if relevant)
-<!-- If a specific procedure is required to review your pull request, describe it. -->
+## Procédure de test (si pertinent)
+<!-- Si une procédure spécifique est nécessaire pour examiner votre pull request, décrivez-la. -->
 
-## Closing issues
-<!-- Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such). -->
+## Fermeture des problèmes
+<!-- Insérez `closes #XXXX` dans votre commentaire pour fermer automatiquement le problème que votre PR corrige (le cas échéant). -->

@@ -1,34 +1,28 @@
 ---
-name: User Story
-about: 'Create a user story '
-title: "[STORY] - "
-labels: story
+name: User Story  
+about: 'Créer une user story'  
+title: "[STORY] - "  
+labels: story  
 assignees: ''
 
 ---
 
 ### User Story
 
-**As a** [user persona],  
-**I want** [desired action],  
-**so that** [benefit or value].
+**En tant que** [persona de l'utilisateur],  
+**Je veux** [action désirée],  
+**afin de** [bénéfice ou valeur].
 
-### Acceptance Criteria
-<!-- List specific conditions that must be met for this user story to be considered complete. -->
-- [ ] Criteria 1
-- [ ] Criteria 2
-- [ ] Criteria 3
+### Critères d'acceptation
+<!-- Listez les conditions spécifiques à remplir pour que cette user story soit considérée comme terminée. -->
+- [ ] Critère 1  
+- [ ] Critère 2  
+- [ ] Critère 3
 
-### Definition of Done
-<!-- Outline the requirements that indicate the user story is complete. -->
-- [ ] Code is written and committed
-- [ ] Code is reviewed
-- [ ] Unit tests are written and passing
-- [ ] Documentation is updated (if needed)
+### Sous-tâches
+<!-- Listez les sous-tâches pour satisfaire cette user story. -->
+- [ ] Tâche / Problème #1  
+- [ ] Tâche / Problème #2
 
-### Additional Information
-<!-- Include any additional context, links, or notes relevant to the user story. -->
-
-### Related Issues or Dependencies
-<!-- Link any related issues, pull requests, or dependencies here. -->
-- Issue #xxx
+### Informations supplémentaires
+<!-- Incluez tout contexte, lien ou note pertinent à la user story. -->
