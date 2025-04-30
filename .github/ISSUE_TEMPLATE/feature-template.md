@@ -2,9 +2,6 @@
 name: Project Feature Template  
 about: When creating a new template 
 title: "[FEATURE] - "  
-assignees: ''
-type: feature
-
 ---
 
 # 📦 Feature: [Feature Name]
